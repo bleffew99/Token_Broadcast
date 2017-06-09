@@ -1,7 +1,0 @@
-.DS_Store
-state
-node_modules
-/build
-docker-compose.yml
-.gradle
-.idea
