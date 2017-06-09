@@ -13,6 +13,10 @@
 <p>The bot implements an open-market bidding mechanism, allowing users to compete for the transmission of message onto an AdSpace.</p>
 <p>At the end of the time interval, the user with the highest bid wins, and gets their message pushed onto both the AdSpace and other bidders. Simultaneously, a smart-contract reimburses the non-winners with their original funds.</p>
 <p>While the message could be easily redesigned to be pushed onto any external network, our proof-of-concept MVP uses a Twitter handle, <a href='https://twitter.com/Token_Broadcast'>@Token_Broadcast</a>, to push the winning message onto the Twitterverse</p>
+<p>To Acess the bot, scan the following QR Code (in-app)</p>
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/max/1455/1*EX7YdB1aJ9TZcVXseWSWZQ.png" width="350"/>
+</p>
 <br>
 
 ---
