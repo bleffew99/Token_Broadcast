@@ -1,3 +1,5 @@
+<h5><i>For a full description of the Token_Broadcast bot, check out our <b><a href='https://medium.com/@kleffew/tokenbroadcast-cf9963b54d99'>press-release</a></b>, found at https://medium.com/@kleffew/tokenbroadcast-cf9963b54d99</i></h5>
+
 # Token_Broadcast
 
 <br>
