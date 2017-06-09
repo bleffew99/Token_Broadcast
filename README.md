@@ -5,7 +5,7 @@
 <br>
 <h2>Abstract:</h2>
 <p>The <b>vision</b> for Token_Broadcast is simply:</p>
-“To allow owners of AdSpaces to create engaging marketplaces where advertisers compete for the attention of users in a way which is transparent, non-discriminatory, and programmatically verifiable.”
+“To allow owners of AdSpaces to create engaging marketplaces where advertisers compete for the attention of users in a way which is <i>transparent</i>, <i>non-discriminatory</i>, and <i>programmatically verifiable</i>.”
 
 ---
 <br>
