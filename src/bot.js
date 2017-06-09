@@ -164,7 +164,7 @@ function onPayment(session, message) {
 // askingForMessageS
 
 function welcome(session) {
-  var minutesLeft = 5 - ((minutes + 5) % 60 - (startMinutes + 5) % 60)
+  var minutesLeft = 5 - ((minutes - 5) % 60 - (startMinutes - 5) % 60)
   session.reply(`Hi, welcome to Token_Broadcast!`)
   session.reply('My function is to create an open and free marketplace where users can bid to get their message pushed to an AdSpace on Twitter')
   sendMessage(session, 'The current bid is currently ' + highestBid.bid + 'ETH' + " with " + minutesLeft + " minutes left")
